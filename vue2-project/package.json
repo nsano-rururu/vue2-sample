@@ -12,7 +12,7 @@
     "@vueblocks/vue-use-vuex": "^0.2.11",
     "@vueuse/core": "^10.11.1",
     "element-ui": "^2.15.14",
-    "vue": "^2.7.16",
+    "vue": "^3.0.0",
     "vue-router": "^3.6.5"
   },
   "devDependencies": {
